@@ -1,4 +1,4 @@
-**#Important notice** 
+**#Important notice:** 
 This is not a real existing dataset. I have created a synthetic dataset named unicef_data.csv, which contains realistic UNICEF-related data relevant to the context of Nepal.
 
 # UNICEF Survey Data Analysis
